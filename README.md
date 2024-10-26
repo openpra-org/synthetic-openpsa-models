@@ -23,7 +23,7 @@ This repository includes synthetic models in OpenPSA XML format. The goals of in
 - Provide a reference for PRA model exchange.
 - And more.
 
-The repository also maintains `schema` for the models.
+The repository also maintains a `schema` for the models and provides four output files for each configuration to give users valuable insights.
 
 ## 1. OpenPSA Model Exchange Format
 The [OpenPSA Model Exchange Format (MEF)](https://open-psa.github.io/mef/index.html) 
