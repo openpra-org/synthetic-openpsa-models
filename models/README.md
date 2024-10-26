@@ -1,4 +1,4 @@
-# Synhetic Model Configurations
+# Synthetic Model Configurations
 
 ## Configuration 1 `c1-P_0.01-0.05`
 | #  | Arguments                                          | Value                     |
