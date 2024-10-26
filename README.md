@@ -14,7 +14,8 @@
   * [5. Additional References Related to Synthetic Models](#5-additional-references-related-to-synthetic-models)
 <!-- TOC -->
 
-# Synthetic Open-PSA Models
+# Synthetic Open-PSA Models [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13996371.svg)](https://doi.org/10.5281/zenodo.13996371)
+
 
 This repository includes synthetic models in OpenPSA XML format. The goals of including these models are to:
 
