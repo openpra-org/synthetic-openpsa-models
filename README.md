@@ -1,5 +1,6 @@
 # Synthetic Open-PSA Models
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13996371.svg)](https://doi.org/10.5281/zenodo.13996371)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13996370.svg)](https://doi.org/10.5281/zenodo.13996371)
 <!-- TOC -->
 * [Synthetic Open-PSA Models](#synthetic-open-psa-models)
   * [1. OpenPSA Model Exchange Format](#1-openpsa-model-exchange-format)
